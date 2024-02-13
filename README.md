@@ -4,14 +4,12 @@
 
 - 📫 How to reach me **nandaaryan823@gmail.com**
 
-![giphy](https://github.com/AryanNanda17/AryanNanda17/assets/125150482/0aeaec95-455c-4799-bf48-68a3d7e65dc4)
-
 
 
 
 
 # 💫 About Me:
-🔭 I'm currently honing my ability to predict when the toaster will pop—because achieving the perfect toastiness is a life skill worth mastering.<br><br>👯 I'm looking to collaborate on a project to create a universal remote that can find missing socks. It's time to end the tyranny of the laundry machine!<br><br>🤝 I'm seeking help with perfecting my dance moves. My attempts so far have been... let's just say, gravity has not been my friend.<br><br>🌱 I'm currently learning the intricate art of keeping houseplants alive. Turns out, they prefer water over-enthusiastic conversations about their growth potential.<br><br>💬 Ask me about the most awkward moments in history or the secret language of pets—I've had plenty of both to decipher!<be>
+- I just love learning new skills. I find it fun. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

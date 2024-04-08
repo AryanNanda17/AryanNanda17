@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-- I just love learning new skills. I find it fun. 
+- I love learning new skills. I find it fun. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

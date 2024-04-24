@@ -18,8 +18,8 @@
 <a href="https://www.kaggle.com/aryannanda17/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="AryanNanda17" height="30" width="40" /></a>
 <a href="https://www.instagram.com/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AryanNanda17" height="30" width="40" /></a>
 <a href="/Add your codechef profile URL here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="AryanNanda17" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nandaaryan823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AryanNandar" height="30" width="40" /></a>
-<a href="https://leetcode.com/Aryan_Nanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanNanda" height="30" width="40" /></a>
+<a href="/Add your codeForces profile URL here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AryanNandar" height="30" width="40" /></a>
+<a href="/Add your LeetCode profile URL here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanNanda" height="30" width="40" /></a>
 </p>
 
 
